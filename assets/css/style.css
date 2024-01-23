@@ -1,0 +1,29 @@
+/*==== Dataset Card ====*/
+.card-custom-img{
+	max-width: 100px;
+    height: auto;
+    padding: 10px;
+}
+.mar-le-25{
+    margin-left: 25px !important;
+}
+.see-more-dataset-button{
+    width: 50%;
+    margin: auto;
+}
+.card{
+    transition: 0.3s ease-in-out;
+}
+.card .card-title{
+    font-size: 25px;
+}
+#datasetContainer .card:hover{
+    background: #f2d0d0;
+}
+.card a .card-text{
+    color: #343a40;
+    font-size: 14px;
+}
+.card .dataset-details h6{
+    font-size: 13px;
+}
